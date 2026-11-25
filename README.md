@@ -21,3 +21,6 @@ The project file is for Code::Blocks (`Menu Kasir Sederhana.cbp`). You can also 
 gcc main.c -o kasir.exe
 kasir.exe
 ```
+
+## License
+Released under the [MIT License](LICENSE).
