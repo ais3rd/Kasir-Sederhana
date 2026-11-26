@@ -2,6 +2,8 @@
 
 A simple cashier (point-of-sale) program in C for a small food stall. The interface is in Bahasa Indonesia.
 
+![Cashier menu and total](screenshot.png)
+
 ## Menu
 | No | Item | Price |
 |---|---|---|
